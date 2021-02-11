@@ -1,16 +1,19 @@
 # course_reviewer
 
-A new Flutter project.
+A platform where students of their university can rate and review courses they take, so it helps the students of the future.
 
-## Getting Started
+## Features 
 
-This project is a starting point for a Flutter application.
+1. Google Sign-in, so students of that university can view reviews and review
+2. All courses can be preloaded in Firebase firestore cloud storage and linked.
+3. View all reviews of a particular course together
+4. Give reviews, edit and delete only reviews of your account
+5. Cross platform app, build for android, IOS and web available
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##  Used
+1. Firebase for storage and Oauth
+2. Application developed in flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
