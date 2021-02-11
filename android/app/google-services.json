@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379697830344",
+    "project_id": "course-reviewer-889b6",
+    "storage_bucket": "course-reviewer-889b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379697830344:android:11d610fbe39b88e73288fd",
+        "android_client_info": {
+          "package_name": "com.example.course_reviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379697830344-3ffkhr8pnsa7tg5iiqrn2fiv2rsd0k2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.course_reviewer",
+            "certificate_hash": "1c98928aeb7c9b84c823109a6eee0692c86539ca"
+          }
+        },
+        {
+          "client_id": "379697830344-v54ti2eolr572qgm9q1vgk87uv62ni1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq_Kuu0wSTKjNnnXFj5XEAqHKO2FQcH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379697830344-v54ti2eolr572qgm9q1vgk87uv62ni1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
