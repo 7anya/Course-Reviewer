@@ -17,3 +17,5 @@ A platform where students of their university can rate and review courses they t
 
 
 
+##to do
+backend integration completely
